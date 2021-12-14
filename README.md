@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Pra-Shant-Chouhan
+- <h1 align="center">Hi 👋, I'm Prashant Chouhan</h1>
 - 👀 I’m interested in  Front end Development & Backend Development...
 - 🌱 I’m currently learning Web development...
 - 💞️ I’m looking to collaborate on  Jobs for Fresher...
 - 📫 How to reach me:  Email-pchouhan122@gmail.com;
 -  contact No.8982528972 & 7987214507...
 
-
-<h1 align="center">Hi 👋, I'm Prashant Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pra-shant-chouhan&label=Profile%20views&color=0e75b6&style=flat" alt="pra-shant-chouhan" /> </p>
